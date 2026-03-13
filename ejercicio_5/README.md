@@ -13,4 +13,9 @@ el programa pide:
 cada mes los capitales crecen con su interes correspondiente hasta que la suma de ambos sea suficiente para iniciar en el negocio 
 
 el programa imprime: 
--
+- numero de meses necesarios 
+- capital final de pedro 
+- capital final de juan 
+- capital total
+
+![diagrama de flujo](diagrama.png)
